@@ -5,8 +5,10 @@
 
 ## KOR
 
+- [경사하강법의 문제점](https://https://github.com/gtg7784/problem_with_gradient_descent/blob/master/README.md)
 - [CNN](https://github.com/gtg7784/AI-Study/blob/master/ko/CNN.md)
 
 ## ENG
 
- - [CNN](https://github.com/gtg7784/AI-Study/blob/master/en/CNN.md)
+- [Problem of Gradient Descent](https://github.com/gtg7784/problem_with_gradient_descent/blob/master/README.en.md)
+- [CNN](https://github.com/gtg7784/AI-Study/blob/master/en/CNN.md)
