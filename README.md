@@ -5,10 +5,16 @@
 
 ## KOR
 
-- [경사하강법의 문제점](https://https://github.com/gtg7784/problem_with_gradient_descent/blob/master/README.md)
-- [CNN](https://github.com/gtg7784/AI-Study/blob/master/ko/CNN.md)
+- [경사하강법의 문제점](https://github.com/gtg7784/problem_with_gradient_descent/blob/master/README.md)
+- [합성곱 신경망](ko/CNN.md)
+- [Depthwise Separable Convolution](ko/depthwise_separable_convolution.md)
+- [MobileNetV1](ko/mobilenetv1.md)
+- [MobileNetV2](ko/mobilenetv2.md)
 
 ## ENG
 
 - [Problem of Gradient Descent](https://github.com/gtg7784/problem_with_gradient_descent/blob/master/README.en.md)
-- [CNN](https://github.com/gtg7784/AI-Study/blob/master/en/CNN.md)
+- [Convolutional Neural Network](en/CNN.md)
+- [Depthwise Separable Convolution](en/depthwise_separable_convolution.md)
+- [MobileNetV1](en/mobilenetv1.md)
+- [MobileNetV2](en/mobilenetv2.md)
